@@ -1,1 +1,3 @@
-# Project-1
+# Max Schmitt' Project-1
+
+This is my Project 1 repository 
